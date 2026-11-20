@@ -75,7 +75,7 @@ Scikit-learn – Regression modeling, preprocessing, and model evaluation
 
 Matplotlib / Seaborn – Statistical analysis and data visualization
 
-🌍 Project Significance
+ ## Project Significance
 
 This project demonstrates how machine learning can support financial risk assessment and creditworthiness evaluation by transforming company-level data into predictive insights.
 
